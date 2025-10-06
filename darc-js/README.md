@@ -70,3 +70,5 @@ const myDeployedDARC_readOnly = new darcjs.DARC({
 // Read information from the DARC
 const memberList = await myDARC_readOnly.getMemberList();
 ```
+
+<!-- Auto-update: 2025-10-06T15:05:08.470730 -->
